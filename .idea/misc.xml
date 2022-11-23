@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BiryukovaAM/MyApplication01/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BiryukovaAM/MyApplication01/app/src/main/res/layout/list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BiryukovaAM/MyApplication45-master/MyApplication45-master/app/src/main/res/layout/activity_main.xml" value="0.28212290502793297" />
+        <entry key="..\:/Users/BiryukovaAM/MyApplication45-master/MyApplication45-master/app/src/main/res/layout/activity_main2.xml" value="0.26944444444444443" />
+        <entry key="..\:/Users/BiryukovaAM/MyApplication45-master/MyApplication45-master/app/src/main/res/layout/addendum_contact.xml" value="0.33" />
+        <entry key="..\:/Users/BiryukovaAM/MyApplication45-master/MyApplication45-master/app/src/main/res/layout/card_contact.xml" value="0.36102564102564105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.28212290502793297" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
